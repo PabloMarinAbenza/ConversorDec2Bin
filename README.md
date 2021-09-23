@@ -6,7 +6,7 @@ El código lo que hace es **convertir números decimales** a **binarios**.
 devuelve un **numero_binario** a través de comparaciones _if_ y _else_
 
 CÓDIGO:
-![alt text] (https://github.com/PabloMarinAbenza/ConversorDec2Bin/blob/main/EJ3.png?raw=true)
+![alt text](https://github.com/PabloMarinAbenza/ConversorDec2Bin/blob/main/EJ3.png?raw=true)
 
 En el _else_ se comprueba si el número es **negativo** y a partir de ahí hace los cálculos para _convertirlo_.
 Una vez hecho eso, se devuelve el **valor** obtenido con un **return**.
